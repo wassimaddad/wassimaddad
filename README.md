@@ -17,7 +17,7 @@
 
 
 ## 👨‍💻 About Me
-<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 interface Developer {
