@@ -91,7 +91,7 @@ A comprehensive collection of classic games built in C, featuring:
 
 **Tech Stack:** `C` `Data Structures` `Game Logic`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wassimaddad/GameLibrary)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wassimaddad/GamesLibrary)
 
 ---
 
