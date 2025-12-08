@@ -44,7 +44,6 @@ const ouassim: Developer = {
 
 - 🌐 **Web Development** - Crafting responsive and intuitive user experiences
 - 🎨 **Design** - Building clean, modern interfaces that users love
-- 🎮 **Games** - Creating fun projects to sharpen my programming skills
 - 🚀 **Innovation** - Always exploring new technologies and best practices
 - 💡 **Problem Solving** - Turning complex challenges into elegant solutions
 
