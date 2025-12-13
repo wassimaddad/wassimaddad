@@ -32,8 +32,8 @@ const ouassim: Developer = {
   name: "Ouassim Addad",
   location: "Algeria 🇩🇿",
   role: "Web Developer",
-  currentlyLearning: ["React", "JavaScript", "C", "Python"],
-  interests: ["Web Dev", "UI/UX", "Game Dev (for fun)"],
+  currentlyLearning: ["React", "NodeJS/ExpressJS", "MongoDB"],
+  interests: ["Web Dev", "UI/UX", "Performance"],
   workingOn: "Mastering modern web technologies 🚀"
 };
 ```
